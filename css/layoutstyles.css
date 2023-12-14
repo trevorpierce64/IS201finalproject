@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(0, 0, 0)!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif!important;
+    font-size: large!important;
+}
+
+li {
+    font-size: large!important;
+    font-weight: 200!important;
+}
+
+.link {
+    color: rgb(41, 69, 0)!important;
+    font-weight: bold!important;
+}
+
+.sunflower {
+    width: 400px!important;
+    height: 500px!important;
+}
+
+.header {
+    top: 5px!important;
+    left: 5px!important;
+    right: 5px!important;
+    height: 100px!important;
+    border: solid 2px black!important;
+    background-color: rgb(236, 202, 255)!important;
+    word-spacing: 100px!important;
+    text-align: center!important;
+    line-height: 100px!important;
+}
+
+.mainbody {
+    margin-top: 5px!important;
+    z-index: 1!important;
+    left: 5px!important;
+    right: 5px!important;
+    height: 2500px!important;
+    background-color: rgb(46, 255, 220)!important;
+    border: 2px solid black!important;
+}
+
+.footer {
+    left: 8px!important;
+    right: 8px!important;
+    bottom: 5px!important;
+    height: 25px!important;
+    position: fixed!important;
+    background-color: rgb(236, 202, 255)!important;
+    border: 2px solid black!important;
+    text-align: center!important;
+}
